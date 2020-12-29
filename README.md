@@ -1,0 +1,1 @@
+# consoleApp_TermsDatabase_DictionaryInPython
